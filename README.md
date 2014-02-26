@@ -7,7 +7,7 @@ This is a wrapper to use the Simple FadeSlideShow jQuery plugin from Pascal Bajo
 * **Simple FadeSlideShow** http://www.simplefadeslideshow.com/
 
 ## How to use
-* download the latest from github or do a checkout (https://github.com/schlypel/Yii-SimpleFadeSlideShow)
+* download the latest from github or do a checkout (git@github.com:schlypel/Yii-SimpleFadeSlideShow.git)
 * put the folder **SimpleFadeSlideShow** to your extensions folder, usually *protected/extensions*
 * use the provided widget in your view
 
