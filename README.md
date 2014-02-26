@@ -16,18 +16,18 @@ Thanks to Yii´s auto loading, there is no need to add this extension to your co
 
 **Minimal markup**
 
-´´´php
+```php
 $this->widget(
 	'ext.SimpleFadeSlideShow.SimpleFadeSlideShow',
 	array(
 		'images' => array('url.to.image','url.to.another.image')
 	)
 );
-´´´
+```
 
 **Advanced markup**
 
-´´´php
+```php
 $this->widget(
 	'ext.SimpleFadeSlideShow.SimpleFadeSlideShow',
 	array(
@@ -52,7 +52,7 @@ $this->widget(
 		'autoPlay' => true,
 	)
 );
-´´´
+```
 
 Basically all options from the jQuery plugin are supported, they may be given directly, if not given, some default values will be used.
 
