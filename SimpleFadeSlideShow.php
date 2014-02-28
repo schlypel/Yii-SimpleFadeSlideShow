@@ -55,7 +55,7 @@ class SimpleFadeSlideShow extends CWidget{
 	public $pathToCss = false; // use this to overwrite the default css
 	//public $pathToArrowImage = false; // use this to overwrite the default arrows image
 
-	public $images; // add images as array: [<url1>,<url2>] || [[<url1>,<link1>,<title1>],[<url2>,<link2>,<title2>]]
+	public $images; // add images as array: [<url1>,<url2>] || [['src'=><url1>,'href'=><link1>,'text'=><title1>],['src'=><url2>,'href'=><link2>,'text'=><title2>]]
 
 	protected function registerClientScript(){
 
