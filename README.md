@@ -59,3 +59,9 @@ Basically all options from the jQuery plugin are supported, they may be given di
 Additionally you may give another CSS file or arrow image.
 
 To see a list of all parameters, just have a look at the code, it´s very simple.
+
+
+**things that could be better**
+* still havent added the additional link target parameter which i have added in my project
+* the view only accounts for lists of images at the moment, allthough the original jQuery plugin is absolutely capable of displaying any sort of content (wasn't necessary for my usecase)
+* only one slideshow per page, multiple invocations may break it, this is a limitation from the underlying jQuery plugin
