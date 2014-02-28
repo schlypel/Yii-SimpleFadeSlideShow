@@ -19,12 +19,12 @@
  * MA 02110-1301, USA.
  *
  * This Yii extension wraps the jQuery plugin "Simple FadeSlideShow"
- * from PAscal Bajorat [http://www.simplefadeslideshow.com/]
+ * from Pascal Bajorat [http://www.simplefadeslideshow.com/]
  * which itself also comes dual licensed under GPLv3+ and MIT
  *
  * @license GPLv3+ & MIT
  * @copyright Copyright &copy; 2014 Philipp Roggan
- * @link TODO
+ * @link https://github.com/schlypel/Yii-SimpleFadeSlideShow
  *
  */
 
